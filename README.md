@@ -13,7 +13,7 @@ Passionate about writing clean, scalable code.
 **Backend:** Java • Spring Boot • Hibernate • JPA • REST APIs • JWT  
 **Frontend:** React.js • HTML • CSS • Bootstrap  
 **Database:** MySQL • MongoDB  
-**Tools:** Git • Docker • Postman • VS Code  
+**Tools:** Git • Docker • Postman • VS Code • Zerve (AI Development Environment) 
 
 ---
 
@@ -30,7 +30,7 @@ Desktop app for managing employee records with full CRUD operations
 ---
 
 ## 💼 Experience
-**Java Full Stack Intern** — 6 months  
+**Java Full Stack Intern** — 3 months  
 Built REST APIs, worked with MVC architecture, Git, and Postman
 
 ---
