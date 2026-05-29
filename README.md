@@ -1,4 +1,4 @@
-# Hi, I'm Laxmi 👋
+# Hi, I'm Laxmi Shekhappa Bhadrapura👋
 
 **Java Full Stack Developer | Bengaluru | Immediate Joiner**
 
