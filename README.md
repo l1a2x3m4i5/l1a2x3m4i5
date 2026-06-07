@@ -11,7 +11,6 @@ Passionate about writing clean, scalable code.
 ## 🛠️ Tech Stack
 
 **Backend:** Java • Spring Boot • Hibernate • JPA • REST APIs • JWT  • CI/CD 
-
 **Frontend:** React.js • HTML • CSS • Bootstrap  
 **Database:** MySQL • MongoDB  
 **Tools:** Git • Docker • Postman • VS Code • Zerve (AI Development Environment) 
