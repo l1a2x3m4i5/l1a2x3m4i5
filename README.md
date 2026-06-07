@@ -10,7 +10,7 @@ Passionate about writing clean, scalable code.
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java • Spring Boot • Hibernate • JPA • REST APIs • JWT  
+**Backend:** Java • Spring Boot • Hibernate • JPA • REST APIs • JWT  • CI/D 
 **Frontend:** React.js • HTML • CSS • Bootstrap  
 **Database:** MySQL • MongoDB  
 **Tools:** Git • Docker • Postman • VS Code • Zerve (AI Development Environment) 
@@ -30,7 +30,7 @@ Desktop app for managing employee records with full CRUD operations
 ---
 
 ## 💼 Experience
-**Java Full Stack Intern** — 3 months  
+**Java Full Stack Intern** — 6 months  
 Built REST APIs, worked with MVC architecture, Git, and Postman
 
 ---
