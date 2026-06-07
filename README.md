@@ -31,7 +31,7 @@ Desktop app for managing employee records with full CRUD operations
 
 ## 💼 Experience
 **Java Full Stack Intern** — 6 months  
-Built REST APIs, worked with MVC architecture, Git, and Postman
+Built REST APIs, worked with MVC architecture, Git, and Postman, CI/CD, Docker
 
 ---
 
